@@ -10,3 +10,4 @@
   * CGLite - Simple java code editor with security - *pending* - **50%**
   * Finix IDE - Code ide - *pending* - **30%**
   * DBXplor - Database explorer - *pending* - **0%**
+  * DigiMe - Digital cv / resume builder - *pending* - **0%**

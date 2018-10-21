@@ -13,3 +13,4 @@
   * DigiMe ( Kompli Me ) - Digital cv / resume builder - *pending* - **0%**
   * Url Short - url shortener - *pending* - **0%**
   * Notes - real time notepad - *pending* - **0%**
+  * Server Manager - local dev server manager - *pending* - **0%**

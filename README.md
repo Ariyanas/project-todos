@@ -3,15 +3,18 @@
 
 
 ### Lists
-  * Frais - expense and budget manager app ( web / android ) - *pending* - **0%**
-  * PassSentinel - Password manager ( web / android ) - *pending* - **0%**
-  * AwwList - Awesome list of anything ( web ) - *pending* - **0%**
-  * Arsasoft - Portfolio website ( web ) - *pending* - **0%**
-  * CGLite - Simple java code editor with security - *pending* - **50%**
-  * Finix IDE - Code ide - *pending* - **30%**
-  * DBXplor - Database explorer - *pending* - **0%**
-  * DigiMe ( Kompli Me ) - Digital cv / resume builder - *pending* - **0%**
-  * Url Short - url shortener - *pending* - **0%**
-  * Notes - real time notepad - *pending* - **0%**
+  * **Expense & Budget Manager** - expense and budget manager app ( web / android )
+  * Password Manager - Password manager app for all credentials with encryption & security ( web / android )
+  * AwwList - Awesome list of anything ( web )
+  * Portfolio - Create your own portfolio website ( web )
+  * Code Editor - Code editor with added security
+  * Code IDE - Code ide
+  * Database Explorer - Database explorer app for all kinds of database management ( possible dbs )
+  * CV Builder - Digital cv / resume builder
+  * Url Shortener - Url shortener that keeps tracks of the traffic followed and gives detailed analytics
+  * Notes App - Real time notepad
   * Spotify Spy - Searches for near Spotify users and tracks what they are listening to
-  * Server Manager - local dev server manager - *pending* - **0%**
+  * Server Manager - Local dev server manager
+  * Project Manager - Local project manager app
+  * Agile / Kanban Board App - Create boards with details and keep track of progress of any project
+  * Todo app - Classic todo app ( realtime if possible )

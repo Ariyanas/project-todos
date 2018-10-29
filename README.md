@@ -5,7 +5,7 @@
 ### Lists
   * **Expense & Budget Manager** - expense and budget manager app ( web / android )
   * Password Manager - Password manager app for all credentials with encryption & security ( web / android )
-  * AwwList - Awesome list of anything ( web )
+  * Awesome List - Awesome list of anything ( web )
   * Portfolio - Create your own portfolio website ( web )
   * Code Editor - Code editor with added security
   * Code IDE - Code ide
